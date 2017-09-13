@@ -47,9 +47,6 @@
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Mono.Posix" />
-    <Reference Include="Ionic.Zip">
-      <HintPath>..\packages\DotNetZip.1.9.3\lib\net20\Ionic.Zip.dll</HintPath>
-    </Reference>
     <Reference Include="BigMath">
       <HintPath>..\packages\TLSharp.0.1.0.274\lib\net45\BigMath.dll</HintPath>
     </Reference>
@@ -61,6 +58,9 @@
     </Reference>
     <Reference Include="TLSharp.Core">
       <HintPath>..\packages\TLSharp.0.1.0.274\lib\net45\TLSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetZip">
+      <HintPath>..\packages\DotNetZip.1.10.1\lib\net20\DotNetZip.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
